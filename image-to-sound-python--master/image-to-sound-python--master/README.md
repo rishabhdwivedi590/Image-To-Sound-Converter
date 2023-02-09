@@ -5,9 +5,6 @@ Intro
 This repo will help you get started on how you can get started with Optical character recognition (*OCR*) and speech synthesis in python by building a simple project that will be converting an image into an audible sounds, combining both **OCR** and **SPeech synthesis** in one application
 
 
-Full article
-------------
-The full article for this source code can be found on [my blog](kalebujordan.com) on an article named [How to convert image to sound in Python ](https://kalebujordan.com/image-to-sound-in-python/).
 
 
 Getting started 
@@ -41,15 +38,4 @@ to change it adjust the it to be the your new image name.
 
 <img src="image_name.png" alt="drawing" width="400"/>
 
-Explore it 
------------
-Now keep explore it by testing it with various input picture to see what kinda of sound it produces 
 
-Give it a star 
---------------
-Did you find this information useful, then give it a star 
-
-
-Credits
------------
-All the credits to [kalebu](github.com/kalebu)
